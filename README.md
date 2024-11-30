@@ -1,4 +1,4 @@
-# py--removecollumn
+# PY--removecollumn
 # This script processes all CSV files in the current directory, removing columns with no data 
 # below the header row and saving the cleaned data in new files with necessary headers.
 # Written by Jonas Lund, 2024.
